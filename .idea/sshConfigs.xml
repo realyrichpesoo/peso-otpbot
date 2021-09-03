@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig host="ec2-54-172-96-82.compute-1.amazonaws.com" id="8f397cfc-5d62-4e2e-9628-5e107b1bac2c" keyPath="C:\Users\rich4\.ssh\bitnami-lMIHNQ0.pem" port="22" customName="OTPBOT" nameFormat="CUSTOM" username="bitnami">
+        <option name="customName" value="OTPBOT" />
+      </sshConfig>
+    </configs>
+  </component>
+</project>
